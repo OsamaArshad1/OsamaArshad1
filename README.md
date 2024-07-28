@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web scraping, web automation, and web development
 - 📫 Reach me at irshadosama78@gmail.com
 
-I am a Jr. Software Engineer at DPS Kuwait, specializing in C#, Blazor, MySQL, and MSSQL. I am also a Python Programmer with expertise in scraping large amounts of data quickly and efficiently. I deliver Web Scraping, Data Extraction, and Web Automation tasks professionally with top-notch quality!
+I am a Jr. Software Engineer at Digital Processing Systems DPS Kuwait, specializing in C#, Blazor, MySQL, and MSSQL. I am also a Python Programmer with expertise in scraping large amounts of data quickly and efficiently. I deliver Web Scraping, Data Extraction, and Web Automation tasks professionally with top-notch quality!
 
 <!---
 OsamaArshad1/OsamaArshad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
